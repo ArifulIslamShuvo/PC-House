@@ -1,0 +1,75 @@
+[
+    {
+      "id": "623dff7672dc54e9dfb02852",
+      "price": "$1,585",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "HP Premium 14"
+    },
+    {
+      "id": "623dff760e4643d52d9051e1",
+      "price": "$573",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "MateBook X Pro"
+    },
+    {
+      "id": "623dff76214542bf5a0ec971",
+      "price": "$847",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "Dell Latitude"
+    },
+    {
+      "id": "623dff765504eca0aeb49f79",
+      "price": "$1,947",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "Lenovo ThinkPad X1 Yoga "
+    },
+    {
+      "id": "623dff7618e170612d61d98d",
+      "price": "$1,255",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "Macbook pro"
+    },
+    {
+      "id": "623dff76bc371577d1b1b7cd",
+      "price": "$1,225",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "TABLE OF CONTENTS"
+    },
+    {
+      "id": "623dff760f2ba3fc1e77e3e9",
+      "price": "$1,735",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "HP Pavilion"
+    },
+
+    {
+      "id": "623dff760f2ba3fc1e77e3e91",
+      "price": "$1,735",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "Razer Blade 15"
+    },
+    {
+      "id": "623dff760f2ba3fc1e77e3e92",
+      "price": "$1,735",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "HP Pavilion Touch All in One 27 QHD"
+    },
+    {
+      "id": "623dff760f2ba3fc1e77e3e92",
+      "price": "$1,735",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "Surface Laptop 4"
+    },
+    {
+      "id": "623dff760f2ba3fc1e77e3e93",
+      "price": "$1,735",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "HP Spectre x360 14"
+    },
+    {
+      "id": "623dff760f2ba3fc1e77e3e94",
+      "price": "$1,735",
+      "img": "https://www.freepik.com/free-psd/laptop-psd-mockup-with-gradient-led-light_18416800.htm#query=laptop&position=1&from_view=search",
+      "name": "Samsung Galaxy Book Pro 360"
+    }
+  ]
