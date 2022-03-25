@@ -36,9 +36,10 @@
     transform: rotate(360deg);
   }
 }
-h2{
+.name{
   font-size: 60px;
   color: green;
+  /* text-align: center; */
 }
 span{
   color: red;

@@ -1,0 +1,11 @@
+.prduct{
+   padding: 10px;
+   border: 2px solid rgba(255, 30, 0, 0.383);
+   margin: 10px;
+   border-radius: 20px;
+}
+.prduct img{
+width: 250px;
+height: 200px;
+border-radius: 10px;
+}
