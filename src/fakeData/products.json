@@ -18,19 +18,19 @@
     "name": "Dell Latitude"
   },
   {
-    "id": "623dff765504eca0aeb49f79",
+    "id": "623dff765549f79",
     "price": "$1,947",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYj_pgsx5Xlwhqzszn9EKRrptoGt9bRtuA&usqp=CAU#query=laptop&position=1&from_view=search",
     "name": "Lenovo ThinkPad X1 Yoga "
   },
   {
-    "id": "623dff7618e170612d61d98d",
+    "id": "623dff7618e1701d98d",
     "price": "$1,255",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYj_pgsx5Xlwhqzszn9EKRrptoGt9bRtuA&usqp=CAU#query=laptop&position=1&from_view=search",
     "name": "Macbook pro"
   },
   {
-    "id": "623dff76bc371577d1b1b7cd",
+    "id": "623dff76bd1b1b7cd",
     "price": "$1,225",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYj_pgsx5Xlwhqzszn9EKRrptoGt9bRtuA&usqp=CAU#query=laptop&position=1&from_view=search",
     "name": "TABLE OF CONTENTS"
@@ -43,7 +43,7 @@
   },
 
   {
-    "id": "623dff760f2ba3fc1e77e3e91",
+    "id": "3dff76ba3fc1e77e3e91",
     "price": "$1,735",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYj_pgsx5Xlwhqzszn9EKRrptoGt9bRtuA&usqp=CAU#query=laptop&position=1&from_view=search",
     "name": "Razer Blade 15"
@@ -55,19 +55,19 @@
     "name": "HP Pavilion Touch All in One 27 QHD"
   },
   {
-    "id": "623dff760f2ba3fc1e7e3e92",
+    "id": "622ba3fc1e7e3e92",
     "price": "$1,735",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYj_pgsx5Xlwhqzszn9EKRrptoGt9bRtuA&usqp=CAU#query=laptop&position=1&from_view=search",
     "name": "Surface Laptop 4"
   },
   {
-    "id": "623dff760f2ba3fc1e77e3e93",
+    "id": "623dff760f2ba3fc1e93",
     "price": "$1,735",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYj_pgsx5Xlwhqzszn9EKRrptoGt9bRtuA&usqp=CAU#query=laptop&position=1&from_view=search",
     "name": "HP Spectre x360 14"
   },
   {
-    "id": "623dff760f2ba3fc1e77e3e94",
+    "id": "623dff76ba3fc1e77e3e94",
     "price": "$1,735",
     "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZXYj_pgsx5Xlwhqzszn9EKRrptoGt9bRtuA&usqp=CAU#query=laptop&position=1&from_view=search",
     "name": "Samsung Galaxy Book Pro 360"

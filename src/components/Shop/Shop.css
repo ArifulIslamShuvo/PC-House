@@ -2,6 +2,10 @@
     display: grid;
     grid-template-columns: 4fr 1fr;
 }
+/* --------------------------------
+        products-container
+   -------------------------------- */
+
 .products-container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
@@ -10,7 +14,44 @@
     margin-left: 20px;
     margin-bottom: 20px;
 }
+
+/*-------------------------
+      cart-containe
+  ------------------------ */
+
 .cart-container{
-    background-color: #04aa6dc7;
+    background-color: rgba(0, 60, 255, 0.657);
     margin-bottom: 20px;
+    border-radius: 10px;
+    position: sticky;
+    top: 0;
+    height: 600px;
+}
+.cart-container h2{
+    text-align: center;
+    color: rgba(0, 0, 0, 0.835);
+}
+.chhose-1{
+    width: 70%;
+    padding: 10px 10px;
+    margin-left: 40px;
+    border: none;
+    border-radius: 10px;
+    color: rgb(255, 255, 255);
+    background-color: tomato;
+}
+.chhose-1:hover{
+    background-color: orange;
+}
+.chhose-again{
+    width: 70%;
+    margin-top: 5px;
+    margin-left: 40px;
+    padding: 10px 10px;
+    border: none;
+    border-radius: 10px;
+    background-color: bisque;
+}
+.chhose-again:hover{
+    background-color: orange;
 }
