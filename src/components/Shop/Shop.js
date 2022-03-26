@@ -4,18 +4,29 @@ import Product from '../Product/Product';
 import './Shop.css'
 
 const Shop = () => {
-    const [products, srtProducts] = useState([]);
+    const [products, setProducts] = useState([]);
     const [cart, setCart] = useState([]);
 
     const AddToCart = (product) => {
         const addNewCart = [...cart, product]
         setCart(addNewCart);
-    };
+    };   
+
+    const chhoseForMe = () =>{
+        // console.log(cart.length);
+        const math = Math.ceil(Math.random()*cart.length);
+        cart.map((data,index) => {
+            if(index === math){
+                alert(data.name)
+            }
+            return data.name;
+        })
+    }
 
     useEffect(() => {
         fetch('products.json')
         .then(res => res.json())
-        .then(data => srtProducts(data))
+        .then(data => setProducts(data))
     },[]);
 
     return (
@@ -28,14 +39,15 @@ const Shop = () => {
                 }
             </div>
             <div className="cart-container">
-                <h2>Selected Laptop</h2>
+                <h2>Selected Laptop: {cart.length}</h2>
                 {
                     cart.map(cart =><Cart key={cart.id} 
-                        cartData={cart}></Cart>)
+                        cartData={cart}>
+                        </Cart>)
                 }
-                <button className='chhose-1'>CHOSE 1 FOR ME</button>
-                <br/>
-                <button className='chhose-again'>CHOOSE AGAIN</button>
+                    <button onClick={()=>chhoseForMe(cart.id)} className='chhose-1'>CHOOSE 1 FOR ME</button>
+                    <br/>
+                    <button className='chhose-again'>CHOOSE AGAIN</button>
             </div>
         </div>
     );
