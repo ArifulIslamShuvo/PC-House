@@ -1,6 +1,6 @@
-# profect Name : PC House
+# PC House
 
-Live link: (https://app.netlify.com/sites/effortless-semifreddo-4bbeaf/overview).
+Live link: (https://effortless-semifreddo-4bbeaf.netlify.app/).
 
 
 
