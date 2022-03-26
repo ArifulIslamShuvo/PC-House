@@ -10,7 +10,6 @@
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 20px;
-    /* border: 2px solid #04aa6dc7; */
     margin-left: 20px;
     margin-bottom: 20px;
 }
@@ -22,6 +21,7 @@
 .cart-container{
     background-color: rgba(0, 60, 255, 0.657);
     margin-bottom: 20px;
+    margin-right: 5px;
     border-radius: 10px;
     position: sticky;
     top: 0;
@@ -55,3 +55,29 @@
 .chhose-again:hover{
     background-color: orange;
 }
+@media screen and (max-width: 600px) {
+    .products-container{
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .cart-container{
+        width: 150px;
+        margin-bottom: 10px;
+        border-radius: 5px;
+        height: 400px;
+        border-radius: 10px;
+        margin-right: 5px;
+    }
+    .chhose-1{
+        width: 70%;
+        padding: 10px 10px;
+        margin-left: 20px;
+        border: none;
+    }
+    .chhose-again{
+        width: 70%;
+        padding: 10px 10px;
+        margin-left: 20px;
+        border: none;
+    }
+  }
